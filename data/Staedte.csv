@@ -1,0 +1,199 @@
+,Land,Stadt,Breite Stadt,Länge Stadt,Anzahl Stadt,GeoData,Latitude,Longitude
+1,Belgien,Brüssel,50.851361,4.348583,223.0,"Bruxelles / Brussel, Ville de Bruxelles - Stad Brussel, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, België - Belgique - Belgien",50.8436709,4.3674366933879565
+2,Belgien,Evere,50.874278,4.402556,1.0,"Evere, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1140, België - Belgique - Belgien",50.8720096,4.4034182
+3,Belgien,Biez,50.726778,4.702333,1.0,"Le Biez, Mondeville, Caen, Calvados, Normandie, France métropolitaine, 14120, France",49.1741761,-0.3155
+4,Belgien,Céroux-Mousty,50.660361,4.520444,2.0,"Céroux-Mousty, Brabant wallon, Wallonie, 1341, België - Belgique - Belgien",50.6607536,4.5343881
+5,Belgien,Waterloo,50.710111,4.402833,6.0,"Waterloo, Iowa, United States of America",42.4979693,-92.3329637
+6,Belgien,Region rest,50.851361,4.348583,1.0,"Rest, Hechtel, Hechtel-Eksel, Limburg, Vlaanderen, 3940, België - Belgique - Belgien",51.1221601,5.3727517
+7,Belgien,Diest,50.985722,5.053194,1.0,"Diest, Vlaams-Brabant, Vlaanderen, België - Belgique - Belgien",50.98456645,5.052873496255041
+8,Belgien,Leuven/ Löwen,50.879111,4.703194,7.0,"Leuven, Martelarenplein, Leuven, Vlaams-Brabant, Vlaanderen, 3000, België - Belgique - Belgien",50.8813454,4.715648
+9,Belgien,Tienen,50.807389,4.937083,2.0,"Tienen, Vlaams-Brabant, Vlaanderen, 3300, België - Belgique - Belgien",50.80843175,4.946429213429422
+11,Belgien,Grez-Doiceau,50.738194,4.696056,2.0,"Grez-Doiceau, Brabant wallon, Wallonie, 1390, België - Belgique - Belgien",50.7386182,4.6962324
+12,Belgien,Nivelles,"50,598044","4,324960",8.0,"Nivelles, Brabant wallon, Wallonie, België - Belgique - Belgien",50.5976885,4.3235854
+14,Dänemark,Aalborg,"57,049000",9.920139,1.0,"Aalborg, Aalborg Kommune, Region Nordjylland, 9000, Danmark",57.0482206,9.9193939
+17,Deutschland,Mannheim,"49,488361","8,466889",2.0,"Mannheim, Baden-Württemberg, 68161, Deutschland",49.489591,8.467236
+18,Deutschland,Bayreuth,"49,943694","11,573194",9.0,"Bayreuth, Bayern, 95444, Deutschland",49.9427202,11.5763079
+19,Deutschland,Berlin,"52,512611","13,411083",156.0,"Berlin, 10117, Deutschland",52.5170365,13.3888599
+20,Deutschland,Berlin-Kleyersburg,"52,454833","13,143167",1.0,,,
+21,Deutschland,Bremen,"53,084333","8,794028",1.0,"Bremen, Deutschland",53.0758196,8.8071646
+22,Deutschland,Ratingen,"51,296972","6,850111",1.0,"Ratingen, Kreis Mettmann, Nordrhein-Westfalen, Deutschland",51.2973261,6.8493503
+23,Deutschland,Wuppertal,"51,257722","7,148083",1.0,"Wuppertal, Nordrhein-Westfalen, 42285, Deutschland",51.264018,7.1780374
+25,Deutschland,Nürnberg,"49,450250","11,076417",19.0,"Nürnberg, Bayern, Deutschland",49.453872,11.077298
+26,Deutschland,Bitterfeld,"51,626333","12,313389",1.0,"Bitterfeld, Bitterfeld-Wolfen, Anhalt-Bitterfeld, Sachsen-Anhalt, 06749, Deutschland",51.6239124,12.3301466
+27,Deutschland,Halle Saale,"51,483611","11,968972",95.0,"Halle (Saale), Sachsen-Anhalt, 06108, Deutschland",51.4825041,11.9705452
+28,Deutschland,Laucha/ Unstrut,"51,223778","11,675444",1.0,"Laucha (Unstrut), Bahnhof, Dorndorf, Laucha an der Unstrut, Unstruttal, Burgenlandkreis, Sachsen-Anhalt, 06636, Deutschland",51.2219966,11.6789059
+30,Deutschland,Merseburg,"51,355139","11,995361",1.0,"Merseburg, Saalekreis, Sachsen-Anhalt, 06217, Deutschland",51.3564413,11.996148
+31,Deutschland,Naumburg/ Saale,"51,151917","11,810028",2.0,"Naumburg (Saale), Burgenlandkreis, Sachsen-Anhalt, Deutschland",51.136732499999994,11.751848642834473
+32,Deutschland,Hamburg,"3,546667","9,995278",21.0,"Hamburg, Deutschland",53.5437641,10.0099133
+34,Deutschland,Frankfurt am Main,"50,114028","8,676722",6.0,"Frankfurt am Main, Hessen, 60311, Deutschland",50.1106444,8.6820917
+35,Deutschland,Aachen,"50,774083","6,086083",6.0,"Aachen, Städteregion Aachen, Nordrhein-Westfalen, Deutschland",50.776351,6.083862
+36,Deutschland,Köln,"50,939833","6,954250",7.0,"Köln, Nordrhein-Westfalen, Deutschland",50.938361,6.959974
+37,Deutschland,Kassel,"51,317889","9,497000",2.0,"Kassel, Hessen, 34117, Deutschland",51.3154546,9.4924096
+38,Deutschland,Marburg,"50,810028","8,764306",1.0,"Marburg, Landkreis Marburg-Biedenkopf, Hessen, Deutschland",50.8117327,8.7757742
+39,Deutschland,Wollmar,"50,971500","8,679917",23.0,"Wollmar, Landkreis Marburg-Biedenkopf, Hessen, 35117, Deutschland",50.9718408,8.6829469
+40,Deutschland,Leuna,"51,323306","12,024083",1.0,"Leuna, Saalekreis, Sachsen-Anhalt, 06237, Deutschland",51.3233638,12.0195081
+41,Deutschland,Dessau,"51,832806","12,240056",5.0,"Dessau-Roßlau, Sachsen-Anhalt, 06842, Deutschland",51.8311104,12.2429261
+42,Deutschland,Köthen,"51,748972","11,976833",1.0,"Köthen, Anhalt-Bitterfeld, Sachsen-Anhalt, 06366, Deutschland",51.7500048,11.9666985
+43,Deutschland,Magdeburg,"52,121222","11,630861",5.0,"Magdeburg, Sachsen-Anhalt, 39104, Deutschland",52.1315889,11.6399609
+44,Deutschland,Würzburg,"49,792556","9,939833",4.0,"Würzburg, Bayern, 97070, Deutschland",49.79245,9.932966
+45,Deutschland,Cottbus,"51,758056","14,333111",10.0,"Cottbus - Chóśebuz, Brandenburg, 03046, Deutschland",51.7567447,14.3357307
+46,Deutschland,Frankfurt an der Oder,"52,347139","14,548111",1.0,"Oder, Frankfurt (Oder), Brandenburg, 15230, Deutschland",52.3482267,14.5548395
+47,Deutschland,Koblenz,"50,352278","7,579722",4.0,"Koblenz, Rheinland-Pfalz, 56068, Deutschland",50.3533278,7.5943951
+48,Deutschland,Trier,"49,749889","6,642694",2.0,"Trier, Rheinland-Pfalz, 54290, Deutschland",49.7596208,6.6441878
+49,Deutschland,Kraiburg,"48,183889","12,430222",23.0,"Kraiburg, Kraiburg am Inn (VGem), Landkreis Mühldorf am Inn, Bayern, 84559, Deutschland",48.17754655,12.444989530347684
+50,Deutschland,München,"48,135111","11,582167",44.0,"München, Bayern, Deutschland",48.1371079,11.5753822
+51,Deutschland,Regensburg,"49,014361","12,096028",4.0,"Regensburg, Bayern, 93047, Deutschland",49.0195333,12.0974869
+52,Deutschland,Stade,"53,601694","9,477111",4.0,"Stade, Niedersachsen, Deutschland",53.599794,9.475438
+55,Deutschland,Bautzen,"51,182056","14,424389",1.0,"Bautzen - Budyšin, Bautzen, Sachsen, Deutschland",51.1813907,14.4275735
+56,Deutschland,Chemnitz,"50,829833","12,919778",4.0,"Chemnitz, Sachsen, 09111, Deutschland",50.8322608,12.9252977
+57,Deutschland,Dippoldiswalde,"50,897000","13,667500",1.0,"Dippoldiswalde, Sächsische Schweiz-Osterzgebirge, Sachsen, 01744, Deutschland",50.882202750000005,13.659452632021722
+58,Deutschland,Döbeln,"51,121556","13,121222",1.0,"Döbeln, Mittelsachsen, Sachsen, 04720, Deutschland",51.1167001,13.1166999
+59,Deutschland,Dresden,"51,048583","13,739556",60.0,"Dresden, Sachsen, 01069, Deutschland",51.0493286,13.7381437
+60,Deutschland,Kamenz,"51,277222","14,099917",6.0,"Kamenz - Kamjenc, Bautzen, Sachsen, Deutschland",51.270139,14.0948628
+61,Deutschland,Leipzig,"51,338306","12,379750",79.0,"Leipzig, Sachsen, 04109, Deutschland",51.3406321,12.3747329
+62,Deutschland,Meißen,"51,164972","13,477389",1.0,"Meißen, Sachsen, 01662, Deutschland",51.1630871,13.4704939
+63,Deutschland,Pirna,"50,962417","13,942000",2.0,"Pirna, Sächsische Schweiz-Osterzgebirge, Sachsen, 01796, Deutschland",50.9616923,13.9386643
+64,Deutschland,Plauen,"50,494111","12,135972",9.0,"Plauen, Vogtlandkreis, Sachsen, Deutschland",50.4950632,12.1346523
+65,Deutschland,Reichenbach,"50,620611","12,302944",1.0,"Reichenbach, A 72, Schneidenbach, Reichenbach, Reichenbach im Vogtland, Vogtlandkreis, Sachsen, 08468, Deutschland",50.621567999999996,12.305749830848718
+66,Deutschland,Flensburg,"54,785861","9,432278",1.0,"Flensburg, Schleswig-Holstein, 24937, Deutschland",54.7833021,9.4333264
+67,Deutschland,Friedrichstadt,"54,376306","9,089278",1.0,"Friedrichstadt, Nordfriesland, Schleswig-Holstein, 25840, Deutschland",54.3760004,9.0897716
+68,Deutschland,Glückstadt,"53,788611","9,423694",1.0,"Glückstadt, Steinburg, Schleswig-Holstein, 25348, Deutschland",53.7913149,9.4267978
+69,Deutschland,Kiel,"54,326556","10,124361",12.0,"Kiel, Schleswig-Holstein, 24103, Deutschland",54.3227085,10.135555
+70,Deutschland,Lübeck,"53,867417","10,686694",1.0,"Lübeck, Schleswig-Holstein, 23552, Deutschland",53.866444,10.684738
+71,Deutschland,Meldorf,"54,093167","9,075806",2.0,"Meldorf, Mitteldithmarschen, Dithmarschen, Schleswig-Holstein, 25704, Deutschland",54.08988,9.070633
+72,Deutschland,Neumünster,"54,073167","9,987000",1.0,"Neumünster, Schleswig-Holstein, 24534, Deutschland",54.0757442,9.9815377
+74,Deutschland,Augsburg,"48,372306","10,897250",4.0,"Augsburg, Bayern, Deutschland",48.3668041,10.8986971
+75,Deutschland,Hannover,"52,371250","9,725444",8.0,"Hannover, Region Hannover, Niedersachsen, Deutschland",52.3744779,9.7385532
+76,Deutschland,Verden,"52,934417","9,230917",1.0,"Verden (Aller), Landkreis Verden, Niedersachsen, 27283, Deutschland",52.94106755,9.235471627440539
+77,Deutschland,Erfurt,"50,979528","11,030806",22.0,"Erfurt, Thüringen, 99084, Deutschland",50.9777974,11.0287364
+78,Deutschland,Greiz,"50,656778","12,199222",4.0,"Greiz, Thüringen, Deutschland",50.7783814,12.0763533
+79,Deutschland,Oldenburg,"53,140139","8,213000",4.0,"Oldenburg, Niedersachsen, 26122, Deutschland",53.1389753,8.2146017
+80,Deutschland,Münster (Wstf.),"51,961417","7,617250",6.0,,,
+81,Deutschland,Lüdenscheid,"51,216139","7,633056",2.0,"Lüdenscheid, Märkischer Kreis, Nordrhein-Westfalen, Deutschland",51.218116,7.6395513
+82,Deutschland,Saarbrücken,"49,233139","6,995861",4.0,"Saarbrücken, Regionalverband Saarbrücken, Saarland, Deutschland",49.234362,6.996379
+83,Deutschland,Karlsruhe,"49,015083","8,402250",1.0,"Karlsruhe, Baden-Württemberg, Deutschland",49.0068705,8.4034195
+84,Deutschland,Stuttgart,"48,777667","9,182833",4.0,"Stuttgart, Baden-Württemberg, 70173, Deutschland",48.7784485,9.1800132
+85,Deutschland,Biesdorf,"52,509889","13,558722",1.0,"Biesdorf, Südeifel, Eifelkreis Bitburg-Prüm, Rheinland-Pfalz, Deutschland",49.8854623,6.3056028
+86,Deutschland,Pfullingen,"48,468278","9,229028",1.0,"Pfullingen, Landkreis Reutlingen, Baden-Württemberg, 72793, Deutschland",48.4656175,9.2258951
+87,Deutschland,Wittau,"49,117722","10,109778",2.0,"Wittau, Bezirk Gänserndorf, Niederösterreich, 2301, Österreich",48.1817633,16.5982699
+90,Frankreich,Orléans,"47,901167","1,905278",1.0,"Orléans, Loiret, Centre-Val de Loire, France métropolitaine, France",47.9027336,1.9086066
+91,Frankreich,Straßburg,"48,572778","7,754917",22.0,"Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, France",48.584614,7.7507127
+92,Frankreich,Grez,"49,639722","1,978583",2.0,"Grez, Beauvais, Oise, Hauts-de-France, France métropolitaine, 60210, France",49.6392083,1.9787726
+93,Frankreich,Lille,"50,630139","3,056139",1.0,"Lille, Nord, Hauts-de-France, France métropolitaine, France",50.6365654,3.0635282
+94,Frankreich,Paris,"48,862444","2,328611",15.0,"Paris, Île-de-France, France métropolitaine, France",48.8566969,2.3514616
+95,Frankreich,Metz,"49,118278","6,176389",5.0,"Metz, Moselle, Grand Est, France métropolitaine, France",49.1196964,6.1763552
+96,Frankreich,Saint-Lô,"49,116583","-1,076972",1.0,"Saint-Lô, Manche, Normandie, France métropolitaine, 50000, France",49.1157004,-1.0906637
+98,Griechenland,Kreta,"35,242694","24,874222",1.0,"Κρήτη, Ρέθυμνο, Δήμος Ρεθύμνης, Περιφερειακή Ενότητα Ρεθύμνου, Περιφέρεια Κρήτης, Κρήτη, Ελλάδα",35.3084749,24.463320724202934
+99,Griechenland,Thessaloniki,"40,637444","22,946056",6.0,"Θεσσαλονίκη, Δήμος Θεσσαλονίκης, Περιφερειακή Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Μακεδονία - Θράκη, 54626, Ελλάδα",40.6403167,22.9352716
+103,Kroatien,Essegg,"45,559444","18,691417",1.0,"Osijek, Grad Osijek, Osječko-baranjska županija, Hrvatska",45.5548753,18.6953593
+104,Kroatien,Zagreb,"45,806972","15,974639",1.0,"Zagreb, Grad Zagreb, Hrvatska",45.813177,15.977048
+105,Kroatien,Osijek,"45,558444","18,692806",1.0,"Osijek, Grad Osijek, Osječko-baranjska županija, Hrvatska",45.5548753,18.6953593
+107,Lettland,Windau/ Ventsplis,"57,389972","21,571556",8.0,,,
+108,Lettland,Wenden (Cēsis),"57,313944","25,270917",87.0,"Cēsis, Cēsu novads, Vidzeme, Latvija",57.3115604,25.2606287
+109,Lettland,Valmiera/ Wolmar,"57,537056","25,419306",29.0,"Valmiera, Stacijas iela, Valmiera, Vidzeme, LV-4201, Latvija",57.5224453,25.4404906
+110,Lettland,Dobele,"56,622556","23,278306",1.0,"Dobele, Dobeles novads, Zemgale, Latvija",56.6257485,23.277275
+112,Lettland,Jelgava,"56,655306","23,733083",11.0,"Jelgava, Zemgale, Latvija",56.6514394,23.7339143
+113,Lettland,Riga,"56,946583","24,108056",40.0,"Rīga, Vidzeme, Latvija",56.9493977,24.1051846
+114,Lettland,Wilna/ Vilnius,"54,685417","25,289417",7.0,"Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva",54.6870458,25.2829111
+116,Niederlande,Sittard,"51,011472","5,880333",1.0,"Sittard, Sittard-Geleen, Limburg, Nederland",50.9974235,5.8666627
+117,Niederlande,Amsterdam,"52,422389","4,869444",2.0,"Amsterdam, Noord-Holland, Nederland",52.3727598,4.8936041
+118,Niederlande,Den Haag,"52,077000","4,300222",4.0,"Den Haag, Zuid-Holland, Nederland",52.0799838,4.3113461
+122,Österreich,Klagenfurt,"46,635639","14,294778",5.0,"Klagenfurt, Klagenfurt am Wörthersee, Kärnten, 9020, Österreich",46.6228162,14.3079604
+123,Österreich,Villach,"46,614306","13,846472",1.0,"Villach, Kärnten, 9500, Österreich",46.6167284,13.8500268
+126,Österreich,Linz,"48,300333","14,297167",4.0,"Linz, Oberösterreich, 4041, Österreich",48.3059078,14.286198
+127,Österreich,Graz,"47,088722","15,435556",43.0,"Graz, Steiermark, 8011, Österreich",47.0708678,15.4382786
+128,Österreich,Mürzzuschlag,"47,606000","15,672750",5.0,"Mürzzuschlag, Bezirk Bruck-Mürzzuschlag, Steiermark, 8680, Österreich",47.6053538,15.6723805
+129,Österreich,Innsbruck,"47,265833","11,403722",1.0,"Innsbruck, Statutarstadt Innsbruck, Tirol, 6020, Österreich",47.2654296,11.3927685
+130,Österreich,Cilli,"46,226861","15,260028",21.0,"Celje, Slovenija",46.2309234,15.2659932
+131,Österreich,Marburg a. d. Drau,"50,795833","8,754028",122.0,"Maribor, Slovenija",46.555628,15.64477
+132,Österreich,Pettau,"46,416889","15,871889",11.0,"Ptuj, Slovenija",46.419351,15.8709841
+133,Österreich,Rann,"45,908750","15,594556",1.0,"Brežice, Slovenija",45.9057461,15.5970336
+134,Österreich,Trifail,"46,154528","15,048167",1.0,"Trbovlje, 1420, Slovenija",46.1490054,15.049032
+135,Österreich,Wien,"48,193806","16,329611",168.0,"Wien, 1010, Österreich",48.2083537,16.3725042
+137,Polen,Danzig,"54,352556","18,642333",63.0,"Gdańsk, województwo pomorskie, Polska",54.36143405,18.62821847557274
+138,Polen,Gdingen (Gdynia),"54,514444","18,529000",9.0,"Gdynia, województwo pomorskie, Polska",54.5164982,18.5402738
+139,Polen,Graudenz,"53,485194","18,748944",3.0,"Grudziądz, województwo kujawsko-pomorskie, Polska",53.47251195,18.761893676880046
+140,Polen,Czortków,"49,015972","25,792278",19.0,"Чортків, Тернопільська область, 48500-48509, Україна",49.0160555,25.7925191
+141,Polen,Drohobycz,"49,358611","23,516722",12.0,"Дрогобич, Дрогобицька міська рада, Львівська область, Україна",49.3478421,23.51207400988946
+142,Polen,Lemberg,"49,837278","24,024083",133.0,"Львів, Галицький район, Львівська міська рада, Львівська область, Україна",49.841952,24.0315921
+143,Polen,Rawa-Ruska,"50,232028","23,624306",41.0,"Рава-Руська, Жовківський район, Львівська область, 80316, Україна",50.2334884,23.6208418
+144,Polen,Stanislau,"48,917083","24,716250",2.0,"Івано-Франківськ, Івано-Франківська міська рада, Івано-Франківська область, Україна",48.9225224,24.7103188
+145,Polen,Tarnopol,"49,556944","25,588417",2.0,"Тернопіль, Тернопільська область, 46000-46499, Україна",49.5557716,25.591886
+146,Polen,Debica,"50,053750","21,409083",26.0,"Dębica, powiat dębicki, województwo podkarpackie, 39-200, Polska",50.0514601,21.4104804
+147,Polen,Jaroslau,"50,013167","22,679222",25.0,"Jarosław, Elektrowniana, Osiedle im. Wojska Polskiego, Jarosław, powiat jarosławski, województwo podkarpackie, 37-500, Polska",50.0104958,22.678605
+148,Polen,Jaslo,"49,743472","21,471917",37.0,"Jasło, powiat jasielski, województwo podkarpackie, Polska",49.7470465,21.4743139
+149,Polen,Krakau,"50,058917","19,933222",207.0,"Kraków, województwo małopolskie, Polska",50.0469432,19.997153435836697
+150,Polen,Miechów,"50,357139","20,037667",9.0,"Miechów, gmina Miechów, powiat miechowski, województwo małopolskie, 32-200, Polska",50.3566016,20.0276912
+151,Polen,Neumarkt,"50,069167","19,942361",7.0,"Neumarkt in der Oberpfalz, Landkreis Neumarkt in der Oberpfalz, Bayern, 92318, Deutschland",49.279624,11.4594662
+152,Polen,Neu-Sandez,"49,620361","20,694167",12.0,"Nowy Sącz, województwo małopolskie, 33-300, Polska",49.61030395,20.71595521113809
+153,Polen,Przemysl,"49,782833","22,768222",163.0,"Przemyśl, województwo podkarpackie, Polska",49.78355525,22.78851130307014
+154,Polen,Reichshof,"50,032306","22,006111",135.0,"Reichshof, Oberbergischer Kreis, Nordrhein-Westfalen, 51580, Deutschland",50.95582295,7.695272861671806
+155,Polen,Sanok,"49,561917","22,201083",32.0,"Sanok, powiat sanocki, województwo podkarpackie, Polska",49.5609053,22.207028
+156,Polen,Tarnow,"50,018944","20,985917",12.0,"Tarnów, województwo małopolskie, Polska",50.025988299999995,20.96405842696229
+157,Polen,Bilgoraj,"50,542333","22,720833",1.0,"Biłgoraj, powiat biłgorajski, województwo lubelskie, 23-400, Polska",50.5424159,22.7209754
+158,Polen,Cholm,"57,151389","31,178972",25.0,"Холм, Холмский район, Новгородская область, Северо-Западный федеральный округ, Россия",57.150761,31.182678
+159,Polen,Hrubieszow,"50,805667","23,887694",14.0,"Hrubieszów, powiat hrubieszowski, województwo lubelskie, 22-500, Polska",50.8047363,23.8873816
+160,Polen,Kranystaw,"50,984667","23,174000",2.0,,,
+161,Polen,Krasnik,"50,924444","22,219000",5.0,"Kraśnik, powiat kraśnicki, województwo lubelskie, Polska",50.9249236,22.229206
+162,Polen,Lublin,"51,239639","22,573278",9.0,"Lublin, województwo lubelskie, Polska",51.218194499999996,22.554677565192677
+163,Polen,Lukow,"51,926361","22,378889",78.0,"Łuków, powiat łukowski, województwo lubelskie, 21-400, Polska",51.93008,22.3790669
+164,Polen,Miedzyrzec,"51,984500","22,784056",4.0,"Великі Межирічі, Корецький район, Рівненська область, 34725, Україна",50.663448,26.868099
+165,Polen,Pulawy,"51,413028","21,959722",45.0,"Puławy, powiat puławski, województwo lubelskie, 24-111, Polska",51.4171713,21.9720582
+166,Polen,Radzyn,"51,783750","22,622250",1.0,"Radzyń, gmina Grabów, powiat łęczycki, województwo łódzkie, 99-106, Polska",52.20186,18.99474
+167,Polen,Wlodawa,"51,549444","23,549306",11.0,"Włodawa, powiat włodawski, województwo lubelskie, 22-200, Polska",51.5466782,23.5540247
+168,Polen,Zamosc,"50,721028","23,250889",19.0,"Zamość, województwo lubelskie, Polska",50.721273,23.259588703837892
+169,Polen,Breslau,"51,110972","17,047528",2.0,"Wrocław, województwo dolnośląskie, Polska",51.1263106,16.97819633051261
+171,Polen,Oppeln,"50,652889","17,942333",4.0,"Opole, województwo opolskie, Polska",50.678792900000005,17.929884436033525
+172,Polen,Stettin,"53,431778","14,551722",8.0,"Szczecin, województwo zachodniopomorskie, Polska",53.42968095,14.592912670292268
+173,Polen,Znin,"52,847417","17,720278",15.0,"Żnin, gmina Żnin, powiat żniński, województwo kujawsko-pomorskie, 88-400, Polska",52.848462,17.7218791
+174,Polen,Konskie,"51,190528","20,407417",3.0,"Końskie, gmina Końskie, powiat konecki, województwo świętokrzyskie, 26-200, Polska",51.1910223,20.4071836
+175,Polen,Opatow,"50,802472","21,420972",1.0,"Opatów, gmina Opatów, powiat opatowski, województwo świętokrzyskie, 27-500, Polska",50.8017661,21.4238281
+176,Polen,Petrikau,"51,405389","19,704000",21.0,"Piotrków Trybunalski, województwo łódzkie, 97-300, Polska",51.4082533,19.696051
+177,Polen,Radom,"51,407583","21,153583",218.0,"Radom, województwo mazowieckie, Polska",51.417157599999996,21.160945939663797
+178,Polen,Radomsko,"51,067111","19,444500",37.0,"Radomsko, powiat radomszczański, województwo łódzkie, Polska",51.0677927,19.4447
+179,Polen,Starachowice,"51,049389","21,066444",15.0,"Starachowice, powiat starachowicki, województwo świętokrzyskie, 27-200, Polska",51.0518865,21.0761377
+180,Polen,Tomaszów-Mazowiecki,"51,532167","20,012417",8.0,"Tomaszów Mazowiecki, powiat tomaszowski, województwo łódzkie, 97-200, Polska",51.5316918,20.0084195
+181,Polen,Tschenstochau,"50,811139","19,118028",100.0,"Częstochowa, województwo śląskie, Polska",50.8120466,19.113213
+182,Polen,Garwolin,"51,898000","21,618000",40.0,"Garwolin, powiat garwoliński, województwo mazowieckie, 08-400, Polska",51.8973315,21.6149645
+183,Polen,Grojec,"51,866833","20,868361",31.0,"Grojec, gmina Alwernia, powiat chrzanowski, województwo małopolskie, Polska",50.086162,19.5662438
+184,Polen,Lodz,"51,766733","19,457235",1.0,"Łódź, województwo łódzkie, Polska",51.773057550000004,19.478382219522512
+185,Polen,Lowitsch,"52,109278","19,941639",1.0,"Łowicz, powiat łowicki, województwo łódzkie, Polska",52.107683,19.9447873
+186,Polen,Ostrow,"51,647250","17,822139",19.0,"Остров, Островский район, Псковская область, Северо-Западный федеральный округ, Россия",57.344631,28.357817
+187,Polen,Siedlce,"52,172556","22,286944",7.0,"Siedlce, województwo mazowieckie, Polska",52.161593800000006,22.281253302988254
+188,Polen,Sokolow,"52,406472","22,239528",107.0,"Соколів, Теребовлянський район, Тернопільська область, 48114, Україна",49.30733,25.37979
+189,Polen,Warschau,"52,236639","20,994361",61.0,"Warszawa, województwo mazowieckie, Polska",52.2337172,21.07141112883227
+190,Polen,Posen,"52,420167","16,920722",6.0,"Poznań, województwo wielkopolskie, Polska",52.40063215,16.91978694287606
+191,Polen,Samter,"52,610889","16,576667",1.0,"Szamotuły, gmina Szamotuły, powiat szamotulski, województwo wielkopolskie, 64-500, Polska",52.6120328,16.5831241
+192,Polen,Ostrowo,"51,647333","17,822361",2.0,"Ostrów Wielkopolski, powiat ostrowski, województwo wielkopolskie, 63-400, Polska",51.6495023,17.8167085
+194,Schweiz,Littau,"47,050722","8,265111",1.0,Lietuva,55.3500003,23.7499997
+196,Serbien,Belgrad,"44,799778","20,451083",2.0,"Београд, Град Београд, Централна Србија, 11000, Србија (Serbia)",44.8178131,20.4568974
+198,Slowakei,Bratislava,"48,152222","17,111444",18.0,"Bratislava, Bratislavský kraj, Slovensko",48.1516988,17.1093063
+200,Slowenien,Krainburg,"46,240194","14,354111",23.0,"Kranj, Slovenija",46.2432635,14.3549501
+201,Slowenien,Veldes,"46,367111","14,116944",5.0,"Bled, 4260, Slovenija",46.3684202,14.1100595
+205,Tschechien,Aussig,"50,657222","14,048722",2.0,"Ústí nad Labem, okres Ústí nad Labem, Ústecký kraj, Severozápad, Česká republika",50.6603327,14.0381357
+206,Tschechien,Beraun,"49,962528","14,081139",4.0,"Beroun, okres Beroun, Středočeský kraj, Střední Čechy, Česká republika",49.9640292,14.0733907
+207,Tschechien,Budweis,"48,976556","14,474139",1.0,"České Budějovice, okres České Budějovice, Jihočeský kraj, Jihozápad, Česká republika",48.9747357,14.474285
+208,Tschechien,Gitschin,"50,436639","15,354806",1.0,,,
+209,Tschechien,Kladno,"50,145444","14,100889",3.0,"Kladno, okres Kladno, Středočeský kraj, Střední Čechy, Česká republika",50.1478497,14.1025379
+210,Tschechien,Kolin,"50,028111","15,201556",1.0,"Kolín, okres Kolín, Středočeský kraj, Střední Čechy, Česká republika",50.0288894,15.2011571
+211,Tschechien,Kuttenberg,"49,949750","15,267250",1.0,"Kutná Hora, okres Kutná Hora, Středočeský kraj, Střední Čechy, Česká republika",49.9486561,15.2681123
+212,Tschechien,Melniku,"50,350889","14,473222",1.0,"Na Mělníku, 745/28, Františka Křížka, Holešovice, Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, 170 00, Česká republika",50.1003727,14.4305661
+213,Tschechien,Neubidschow,"50,241556","15,490472",1.0,"Nový Bydžov, okres Hradec Králové, Královéhradecký kraj, Severovýchod, 50401, Česká republika",50.2417701,15.4907692
+214,Tschechien,Pilsen,"49,746611","13,377917",1.0,"Plzeň, okres Plzeň-město, Plzeňský kraj, Jihozápad, Česká republika",49.7477415,13.3775249
+215,Tschechien,Pisek,"49,308861","14,149389",2.0,"Písek, okres Písek, Jihočeský kraj, Jihozápad, Česká republika",49.3089887,14.147769
+216,Tschechien,Prag,"50,077278","14,435056",63.0,"Praha, okres Hlavní město Praha, Hlavní město Praha, Praha, Česká republika",50.0874654,14.4212535
+217,Tschechien,Reichenberg,"50,767917","15,057417",7.0,"Liberec, okres Liberec, Liberecký kraj, Severovýchod, Česká republika",50.7702648,15.0583947
+218,Tschechien,Tabor,"49,412417","14,669583",2.0,"Tabor, Fremont County, Iowa, 51653, United States of America",40.8983329,-95.6713892
+219,Tschechien,Tetschen,"50,777472","14,209306",1.0,"Děčín, okres Děčín, Ústecký kraj, Severozápad, Česká republika",50.7824196,14.2147221
+220,Tschechien,Warnsdorf,"53,966583","10,821167",25.0,"Varnsdorf, okres Děčín, Ústecký kraj, Severozápad, Česká republika",50.9124244,14.6194058
+221,Tschechien,Zaunfeld,"50,031528","18,067333",1.0,"Plotiště nad Labem, Hradec Králové, okres Hradec Králové, Královéhradecký kraj, Severovýchod, 50301, Česká republika",50.2300113,15.8028489
+222,Tschechien,Brünn,"49,197194","16,604722",13.0,"Brno, okres Brno-město, Jihomoravský kraj, Jihovýchod, Česká republika",49.1922443,16.6113382
+223,Tschechien,Kremsier,"49,297667","17,396083",2.0,"Kroměříž, okres Kroměříž, Zlínský kraj, Střední Morava, Česká republika",49.2984191,17.3929804
+224,Tschechien,Ölmütz,"49,593222","17,246583",13.0,"Olomouc, okres Olomouc, Olomoucký kraj, Střední Morava, Česká republika",49.5940567,17.251143
+225,Tschechien,Prerau,"49,469417","17,466917",1.0,"Přerov, okres Přerov, Olomoucký kraj, Střední Morava, Česká republika",49.4553775,17.4508621
+226,Tschechien,Prossnitz,"49,472667","17,110528",2.0,"Prostějov, okres Prostějov, Olomoucký kraj, Střední Morava, Česká republika",49.4721467,17.1117979
+227,Tschechien,Weisskirchen,"50,821444","14,925667",1.0,"Blanche-Église, Sarrebourg-Château-Salins, Moselle, Grand Est, France métropolitaine, 57260, France",48.7910311,6.6708944
+232,Ungarn ,Budapest,"47,498667","19,056472",1.0,"Budapest, Közép-Magyarország, Magyarország",47.48138955,19.14607278448202
+233,Ungarn ,Frankenstadt u. d. R.,"46,178444","18,957861",1.0,,,
+234,Weißrussland,Minsk,"53,902417","27,555500",2.0,"Минск, Беларусь",53.902334,27.5618791
+235,Weißrussland,Slonim,"53,091333","25,320000",2.0,"Слоним, Слонимский район, Гродненская область, Беларусь",53.0927071,25.3193209
